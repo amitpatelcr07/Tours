@@ -1,0 +1,24 @@
+.img{
+    width: 100px; /* Set the desired width */
+      height: 100px; /* Set the desired height */
+      border-radius: 50%; /* Use 50% to create a circular shape */
+      overflow: hidden;
+      margin-right:90%;
+      margin-top:20px;
+      right: inherit;
+}
+.card{
+    background-color: aqua;
+    margin-top: 20px;
+}
+
+.btn-dlt{
+    border-color: red;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.name-price{
+    margin-top: -10px;
+}
